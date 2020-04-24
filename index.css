@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    font-family:'Libre Franklin', 'Muli', 'Roboto', 'Sen', sans-serif;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    background-image:linear-gradient(to right, rgb(7, 151, 170), rgba(4, 36, 97, 0.137));
+}
+
+code{
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
